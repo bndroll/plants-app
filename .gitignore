@@ -9,6 +9,9 @@
 .history
 .svn/
 
+.web/
+.gradle
+
 # IntelliJ related
 *.iml
 *.ipr
@@ -44,6 +47,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-/web
-/.gradle
